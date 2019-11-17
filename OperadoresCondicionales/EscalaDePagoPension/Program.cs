@@ -23,7 +23,7 @@ namespace _20._EscalaDePagoPension
             switch (categoria.ToUpper()) //lo convierte a mayúscula
             {
                 case "A":
-                    cuotaVariable = (cantCursos >= 1 && cantCursos <= 5)
+                    cuotaVariable = (cantCursos >= 1 && cantCursos <= 5) // se puede ahorrar una variable con el +=
                     ? 400 : (cantCursos >= 6 && cantCursos <= 8)
                     ? 600 : 900;
                     break;
