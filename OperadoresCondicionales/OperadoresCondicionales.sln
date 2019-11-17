@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.-OperadorTernario02", "1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.-EnoughMoney", "12\12.-EnoughMoney.csproj", "{0F74186E-5248-4E2B-956D-95C6113EE402}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EscalaDePagoPension", "EscalaDePagoPension\EscalaDePagoPension.csproj", "{2D46D274-4D39-40FA-AE88-F3521FC4E45D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.-EscalaDePagoPension", "EscalaDePagoPension\20.-EscalaDePagoPension.csproj", "{2D46D274-4D39-40FA-AE88-F3521FC4E45D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EscalaDePagoPension
+namespace _20._EscalaDePagoPension
 {
     class Program
     {
@@ -20,7 +20,7 @@ namespace EscalaDePagoPension
             double cuotaFija = 350;
             double cuotaVariable = 0;
 
-            switch (categoria)
+            switch (categoria.ToUpper()) //lo convierte a mayúscula
             {
                 case "A":
                     cuotaVariable = (cantCursos >= 1 && cantCursos <= 5)
