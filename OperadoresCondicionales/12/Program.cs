@@ -30,7 +30,7 @@ namespace _12._EnoughMoney
 
 
 
-            Console.WriteLine("\n\tMonto de la compra : " + montoCompra);
+            Console.WriteLine("\n\tMonto de la compra : S/." + montoCompra);
             Console.WriteLine(mensaje);
             Console.ReadKey();
         }
