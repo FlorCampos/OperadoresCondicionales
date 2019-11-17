@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.-PrintDay", "8.-PrintDay\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.-LaborableDay", "9.-LaborableDay\9.-LaborableDay.csproj", "{7020C007-6E6F-43A5-B3C7-93DD2790FE19}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.-OperadorTernario", "10.-OperadorTernario\10.-OperadorTernario.csproj", "{C4DF2836-6678-4A47-B04E-F4FFE0926411}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.-OperadorTernario02", "11.-OperadorTernario02\11.-OperadorTernario02.csproj", "{0C66C7C1-7A9C-4412-876D-43F15795EF65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{7020C007-6E6F-43A5-B3C7-93DD2790FE19}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7020C007-6E6F-43A5-B3C7-93DD2790FE19}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7020C007-6E6F-43A5-B3C7-93DD2790FE19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4DF2836-6678-4A47-B04E-F4FFE0926411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4DF2836-6678-4A47-B04E-F4FFE0926411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4DF2836-6678-4A47-B04E-F4FFE0926411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4DF2836-6678-4A47-B04E-F4FFE0926411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
