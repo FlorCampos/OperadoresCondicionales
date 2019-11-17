@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.-OperadorTernario", "10.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.-OperadorTernario02", "11.-OperadorTernario02\11.-OperadorTernario02.csproj", "{0C66C7C1-7A9C-4412-876D-43F15795EF65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12.-EnoughMoney", "12\12.-EnoughMoney.csproj", "{0F74186E-5248-4E2B-956D-95C6113EE402}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C66C7C1-7A9C-4412-876D-43F15795EF65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F74186E-5248-4E2B-956D-95C6113EE402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F74186E-5248-4E2B-956D-95C6113EE402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F74186E-5248-4E2B-956D-95C6113EE402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F74186E-5248-4E2B-956D-95C6113EE402}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
